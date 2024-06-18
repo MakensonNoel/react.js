@@ -10,10 +10,10 @@ import { Analytics } from "@vercel/analytics/react";
 const Home = () => {
   return (
     <>
-      <Navbar />      
+      <Navbar />
       <Projects />
       <Sudoku />
-      <TicTacToe/>
+      <TicTacToe />
       <Footer />
       <Analytics />
     </>
